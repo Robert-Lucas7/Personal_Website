@@ -1,0 +1,1 @@
+This is a simple game where you have to match cards together and progress through a series of levels (that change the number of cards to match  - e.g. match 3 cards instead of 2). The highscores for each level are stored in a leaderboard.

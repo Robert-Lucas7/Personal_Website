@@ -1,0 +1,15 @@
+{
+    "Self-Balancing Robot" : {
+        "img" : null,
+        "initial_desc" : "I created a self-balancing robot using an arduino and a PID controller that was first simulated using the Gazebo simulation software."
+    },
+    "TurboJet RC Car":{
+        "img" : "rc_car.jpeg",
+        "initial_desc":"I am currently creating a TurboJet powered RC car."
+    },
+    "Web development CA" : {
+        "img" : null,
+        "initial_desc" : "Created a pairs game where you have to match cards together."
+    }
+
+}
